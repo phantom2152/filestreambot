@@ -42,8 +42,7 @@
 Either you could locally host or deploy on [Heroku](https://heroku.com)
 ### 💜 Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy/)
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy/https://dashboard.heroku.com/new?template=https://github.com/phantom2152/filestreambot)
 <br>
 
 ### RAILWAY
